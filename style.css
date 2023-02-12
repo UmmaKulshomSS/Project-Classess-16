@@ -1,0 +1,100 @@
+.header{
+    background-color: #101446;
+}
+.header-logo img{
+    width: 80px;
+    padding: 10px 0;
+}
+.primary-menu{}
+.primary-menu ul{
+    margin-bottom: 0;
+    text-align: right;
+}
+.primary-menu ul li{
+    display: inline-block;
+}
+.primary-menu ul li a {
+    display: block;
+    color: #fff;
+    text-decoration: none;
+    padding: 0 20px;
+    line-height: 62px;
+    font-weight: bold;
+}
+
+.banner{
+    background: url(https://i.ibb.co/Z1MQ5Z3/banner.jpg) no-repeat center center;
+    padding: 200px 0;
+    background-size: cover;
+}
+.banner h2{
+    color: #fff;
+}
+.banner p {
+    color: #fff;
+    font-weight: bold;
+}
+.banner button {
+    display: block;
+    margin-left: 575px;
+    background-color: #337ab7;
+    font-weight: bold;
+    border: none;
+}
+
+.service{
+    background-color: #bac1f3;
+}
+.service h1{
+    font-size: 50px;
+}
+.card{
+    background-color: #bac1f3;
+    border: none;
+    width: 200px;
+}
+.card img{
+    width: 200px;
+    margin: auto;
+}
+.pic3 {
+    width: 200px;
+    height: 300.53px;
+}
+.send{
+    background-color: #337ab7;
+    border: none;
+}
+.about{
+    background-color: #c2d4ea;
+}
+.text{
+    font-size: 40px;
+}
+.lorem{
+    font-size: 17px;
+    font-weight: bold;
+    color: #555657;
+}
+.contact{
+    background-color: #f5f5f5;
+}
+.contact-text{
+    font-size: 45px;
+}
+.form-label{
+    font-weight: bolder;
+}
+.submit{
+    background-color: #5bc0de;
+    border: none;
+    font-weight: bold;
+}
+.footer{
+    background-color: #0062d3;
+    color: #fff;
+}
+.footer p{
+    font-weight: bold;
+    margin-bottom: 0;
+}
